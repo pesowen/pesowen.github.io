@@ -7,7 +7,9 @@ keywords: 生活 工作
 
 ---
 
-## (仓木麻衣[^mai-san]和Owen的)教授来中国，六年不见，how time flies!
+## 教授来深圳了
+
+教授是一个对我来说非常重要的人，六年不见，how time flies! 教授也是仓木麻衣[^mai-san]的教授哦~
 
 [^mai-san]: [Kuraki Mai](http://baike.baidu.com/link?url=fDqT91cL-dU2pqEbsaB2RqUwKyyLe--VQ94NUMS9hac75eb_YODEjEuZrxJN-TGQL2WeqRnQ7WYE88S_B0ptSeZLOdeWFyqItQSqbPACwhG4hBFZEYmO-2E4KqPAWw_z)
 
@@ -25,7 +27,7 @@ keywords: 生活 工作
 
 ---
 
-#### 广州两日游
+## 广州两日游
 
 - 中国第一家五星级酒店
 
@@ -54,4 +56,6 @@ keywords: 生活 工作
 
 ---
 
-> Professor: You must learn to take a break and just sit back for a while when you need it, then work your ass off when you have to. Life is like that, repetitions of ups and downs. You win sometimes, but also learn to lose when you aren't meant to win.
+## 教授的话
+
+> You must learn to take a break and just sit back for a while when you need it, then work your ass off when you have to. Life is like that, repetitions of ups and downs. You win sometimes, but also learn to lose when you aren't meant to win.

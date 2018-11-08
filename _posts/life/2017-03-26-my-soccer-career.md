@@ -7,7 +7,7 @@ keywords: 生活 运动
 
 ---
 
-## Where I got started
+## 原点——Where I got started
 
 - 二十年前姑姑去广州出差买了一个STAR的足球送我作为礼物, 小欧文兴奋地每天抱着睡觉, 这就是传说中的"原点"?
 
@@ -15,7 +15,7 @@ keywords: 生活 运动
 
 ---
 
-## キャプテン翼
+## 小学
 
 - **[「足球小将」](http://baike.baidu.com/link?url=AHDXHJnr7Rd7vcZN6xNO3_vgPunKMWgzmDlWx3sM_35S39QhimLVlFqJHhdv9EYVkT2q9oebZvSD3TQEpi0ShmclsQipzcugxWgQh1aHoKH5Vfhkwihjl4hZhG4P9n7s)**这部动漫让我和小伙伴在生命里第一次学会了团队, 信赖, 友谊. 
 
@@ -43,7 +43,7 @@ keywords: 生活 运动
 
 ---
 
-## First champion
+## 中学
 
 - 初中时拿过全校冠军, 作为队长上台领奖面对台下两千人的目光, 第一次感受到了荣誉和付出后获得回报的满足感.
 
@@ -51,7 +51,7 @@ keywords: 生活 运动
 
 ---
 
-## College time
+## 大学
 
 - 大学时期除了拿过两届电子竞技比赛实况足球项目的冠军, 最大的感受就是在少不经事的年纪认识了一帮经历丰富的好友, 有北京前四校队的主力后腰, 有华为项目经理, 有房地产老板, 有虔诚的基督徒, 有画家, 有职业股民, 有来自太平洋岛国的女生, 还有很多球技令我自叹不如的师兄们.
 
@@ -59,11 +59,11 @@ keywords: 生活 运动
 
 ---
 
-## Team IBM
+## 工作后——Team IBM
 
 > 大概是我最难以忘怀的球队, 有太多太多的回忆, 荣耀失望互黑互助吵架喝酒, 可能再也没机会和这一帮有趣的"损友"在一起为了同一个目标拼搏了.
 
-### 拿了这货好多年...
+#### 公司运动会的冠军奖杯，拿了这货好多年...
 
 ![superman1](http://ws2.sinaimg.cn/large/007ozevdgy1fwx1s1y1x7j31w02ioe81.jpg)
 
