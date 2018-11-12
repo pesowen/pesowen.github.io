@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nutanix Bible 阅读心得
+title: Nutanix Bible 阅读笔记
 category: 技术
 tags: Nutanix HCI DataCenter Storage
 
@@ -1322,3 +1322,5 @@ Applet
 [^3]:[Nutanix官网](https://www.nutanix.com/)
 
 [^4]:[Nutanix是什么?-知乎](https://www.zhihu.com/question/22864413/answer/110939149)
+
+
