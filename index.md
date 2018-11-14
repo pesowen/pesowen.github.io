@@ -4,9 +4,12 @@ title: Owen's Blog
 
 ---
 
->
-Do Not Go Gentle into That Good Night   
-不要温和地走进那个良夜
+- Engineer
+- Cat person
+- Mac user
+- Sports fanatic
+- GTD fancier
+- Technology enthusiast
 
 ![index](http://ws2.sinaimg.cn/large/007ozevdgy1fwx122rh3kj32io1w0x6p.jpg)
 
