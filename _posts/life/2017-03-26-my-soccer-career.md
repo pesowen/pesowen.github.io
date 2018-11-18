@@ -101,7 +101,7 @@ keywords: 生活 运动
 
 **[大兴杯](http://www.daihing.com/website/NewsView.aspx?id=245)**在IBM的历史中这是一个重要的比赛, 很多前辈都参加过大兴杯可是没有发挥好, 拼了个季军也算是对离开IBM的前辈的一种安慰
 
-![bronze medal](http://ws3.sinaimg.cn/large/007ozevdgy1fwx25qh5lwj31w01w07wh.jpg)
+![bronzemedal](https://wx3.sinaimg.cn/large/007ozevdgy1fxcs3998mbj30sg0sg7f1.jpg)
 
 ![football night](http://wx4.sinaimg.cn/large/007ozevdgy1fwx27otnm8j30zk0qoq7s.jpg)
 
@@ -136,3 +136,5 @@ keywords: 生活 运动
 ![michaelowen](http://wx2.sinaimg.cn/large/007ozevdgy1fwx29j16m6j30sg0lc3z8.jpg)
 
 > 僕が考えるサッカーの魅力は、ボールを持っていないときにある。/我认为足球的魅力，正是在无球状态时。（蛇口第一锋霸）
+
+
