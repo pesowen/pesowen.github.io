@@ -9,7 +9,7 @@ tags: iOS Developer
 ## NSDateFormatter的作用
 - NSString \* -> NSDate *
 
-```obj
+```objc 
 - (nullable NSDate *)dateFromString:(NSString *)string;
 ```
 
@@ -245,3 +245,5 @@ NSDateComponents *cmps = [calendar components:unit fromDate:createdAtDate toDate
 
 NSLog(@"%@", cmps);
 ```
+
+

@@ -114,16 +114,26 @@ dispatch_queue_t queue = dispatch_get_global_queue(<#long identifier#>, <#unsign
 
 ### 获得主队列
 
-`dispatch_queue_t queue = dispatch_get_main_queue();`
+```objc
+dispatch_queue_t queue = dispatch_get_main_queue();
+```
 
 ### 显式的指明一个任务执行块进入了这个组
 
-`dispatch_group_enter();`
+```objc
+dispatch_group_enter();
+```
 
 ### 显式表明执行块执行完毕，移除出组
 
-`dispatch_group_leave();`
+```objc
+dispatch_group_leave();
+```
 
 ### 对于同步任务，这两个方法结合起来的效果等同于
 
-`dispatch_group_async();`
+```objc
+dispatch_group_async();
+```
+
+
