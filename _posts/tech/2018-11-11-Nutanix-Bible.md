@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nutanix Bible 阅读笔记
+title: Nutanix Bible阅读笔记
 category: 技术
 tags: Nutanix HCI DataCenter Storage
 
