@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac 常用资源
+title: Mac常用资源
 category: 资源
 tags: Mac
 keywords: Mac

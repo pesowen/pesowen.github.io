@@ -59,3 +59,5 @@ keywords: 生活 工作
 ## 教授的话
 
 > You must learn to take a break and just sit back for a while when you need it, then work your ass off when you have to. Life is like that, repetitions of ups and downs. You win sometimes, but also learn to lose when you aren't meant to win.
+
+
