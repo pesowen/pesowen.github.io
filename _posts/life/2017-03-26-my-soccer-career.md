@@ -109,7 +109,7 @@ keywords: 生活 运动
 
 ![photo in statium](http://wx4.sinaimg.cn/large/007ozevdgy1fwx2bd27wtj30qo0f2ad8.jpg)
 
-> It's my great honor to have been fighting with all of you, Alpha, 阿杜, 阿廖, Barro, Bruce, **[Conrad](https://conradicalblog.wordpress.com/)**, Daniel, David, Dino, Dannie, Erek, Ethan, Eric, 国华, 弘毅, Isaac, Jacky, Joe, 江淼, 建川, 剑飞, 老于, Mars, Neal, Raulvii, Ryan, Sam Lee, Tanis, Taylor, 天龙, Wayne, Winson, 吴峰
+It's my great honor to have been fighting with all of you, Alpha, 阿杜, 阿廖, Barro, Bruce, **[Conrad](https://conradicalblog.wordpress.com/)**, Daniel, David, Dino, Dannie, Erek, Ethan, Eric, 国华, 弘毅, Isaac, Jacky, Joe, 江淼, 建川, 剑飞, 老于, Mars, Neal, Raulvii, Ryan, Sam Lee, Tanis, Taylor, 天龙, Wayne, Winson, 吴峰
 
 ---
 
