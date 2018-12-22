@@ -8,7 +8,7 @@ title: Owen's Blog
 
 <details>
   <summary>Engineer</summary>
-  <p> My occupation is a sales engineer supporting Datacenter, we cover everything from servers, storage, network, data protection, virtualization, Hyper-converged infrastructure and cloud. </p>
+  <p> My occupation is a sales engineer of Datacenter, we cover everything from servers, storage, network, data protection, virtualization, Hyper-converged infrastructure and cloud. </p>
 </details>
 
 <details>
