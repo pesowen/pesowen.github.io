@@ -4,14 +4,39 @@ title: Owen's Blog
 
 ---
 
-- Engineer
-- Cat person
-- Mac user
-- Sports fanatic
-- GTD fancier
-- Technology enthusiast
+## BIO
 
-![index](http://ws2.sinaimg.cn/large/007ozevdgy1fwx122rh3kj32io1w0x6p.jpg)
+<details>
+  <summary>Engineer</summary>
+  <p> My occupation is a sales engineer supporting Datacenter, we cover everything from servers, storage, network, data protection, virtualization, cloud and Hyper-converged infrastructure. </p>
+</details>
+
+<details>
+  <summary>Cat person</summary>
+  <p> I adopted a Chinese Lihua Cat called Bumpy and I love him! </p>
+</details>
+
+<details>
+  <summary>Apple fan</summary>
+  <p> I use Apple's products everyday: iPhone, iPad, MacBook Pro, Apple Watch and Apple TV.</p>
+</details>
+
+<details>
+  <summary>Sports fanatic</summary>
+  <p> I play soccer every week as a striker.
+I love to watch all kinds of sports, trust me, baseball is dope!</p>
+</details>
+
+<details>
+  <summary>GTD fancier</summary>
+  <p> I'm using OmniFocus as my primary GTD tool, it helps me quit forgetting tasks and start getting more done.</p>
+</details>
+
+<details>
+  <summary>Technology enthusiast</summary>
+  <p> I enjoys creating, buying, testing, evaluating and learning about new technology.</p>
+</details>
+
 
 ## 博客平台
 
