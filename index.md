@@ -13,23 +13,24 @@ title: Owen's Blog
 
 <details>
   <summary>Cat person</summary>
-  <p> I adopted a Chinese Lihua Cat called Bumpy and I love him! </p>
+  <p> “Cats choose us; we don’t own them.” 
+  I adopted a Chinese Lihua Cat called Bumpy and I love him so much! </p>
 </details>
 
 <details>
   <summary>Apple fan</summary>
-  <p> I use Apple's products everyday: iPhone, iPad, MacBook Pro, Apple Watch and Apple TV.</p>
+  <p> Apple keeps things simple, that's also my concept of life. I use Apple's products everyday: iPhone, iPad, MacBook Pro, Apple Watch and Apple TV.</p>
 </details>
 
 <details>
   <summary>Sports fanatic</summary>
-  <p> I play soccer every week as a striker.
-I love to watch all kinds of sports, trust me, baseball is dope!</p>
+  <p> It's a routine for me to play soccer every week as a striker.
+I also love to watch all kinds of sports, trust me, baseball is dope!</p>
 </details>
 
 <details>
   <summary>GTD fancier</summary>
-  <p> I'm using OmniFocus as my primary GTD tool, it helps me quit forgetting tasks and start getting more done.</p>
+  <p> OmniFocus is my primary GTD tool, it helps me quit forgetting tasks and start getting more done.</p>
 </details>
 
 <details>
