@@ -13,8 +13,7 @@ title: Owen's Blog
 
 <details>
   <summary>Cat person</summary>
-  <p> “Cats choose us; we don’t own them.” 
-  I adopted a Chinese Lihua Cat called Bumpy and I love him so much! </p>
+  <p> I adopted a Chinese Lihua Cat called Bumpy and I love him! </p>
 </details>
 
 <details>
