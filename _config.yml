@@ -4,7 +4,7 @@ email: pesowen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Owen’s Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://pesowen.win # the base hostname & protocol for your site
+url: http://pesowen.tech # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Owen
 
@@ -29,7 +29,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-75143576-1
-  url: pesowen.win
+  url: pesowen.tech
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
